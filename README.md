@@ -31,5 +31,4 @@ This project is an end-to-end data analysis of a simulated e-commerce platform (
 # Code Structure
 You can find the complete, documented SQL script in this repository:
 * `ecommerce_analysis.sql`: Contains the full queries for category revenue, loss analysis, and the RFM model.
-You can find the complete, documented SQL script in this repository:
-* `ecommerce_analysis.sql`: Contains the full queries for category revenue, loss analysis, and the RFM model.
+
